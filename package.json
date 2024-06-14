@@ -1,0 +1,29 @@
+{
+  "name"       : "@hclutils/utils",
+  "version"    : "0.0.0",
+  "description": "Base helper utilities used within the other HCL Utils tools.",
+  "main"       : "src/command.js",
+  "module"     : "src/command.js",
+  "scripts"    : {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git+https://github.com/HCLUtils/utils.git"
+  },
+  "keywords": [
+    "hcl",
+    "utils",
+    "base"
+  ],
+  "author" : {
+    "name" : "Fred lackey",
+    "email": "fred.lackey@gmail.com",
+    "url"  : "http://fredlackey.com"
+  },
+  "license": "Apache-2.0",
+  "bugs"   : {
+    "url": "https://github.com/HCLUtils/utils/issues"
+  },
+  "homepage": "https://github.com/HCLUtils/utils#readme"
+}
